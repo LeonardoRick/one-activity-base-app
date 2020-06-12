@@ -1,5 +1,3 @@
-# one-activity-base-app
-
 # DESCRIPTION OF ONEACTIVTY-BASE-APP
 
 Since android update the standard MainActivity app inicializations, it's being a mess to clean a project when you want to start it with only one activity.
