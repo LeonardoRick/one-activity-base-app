@@ -6,7 +6,6 @@ This project is a template to start your project with one simple and clean activ
 
 
 ---
->**args[0]** = "-m" ou "-s" para indicar se o processo deve inicializar um Master ou um Slave  
 #### update 1
 >Right click on main package name**com.example.base_app** -> refactor -> rename and change the package name for whatever you want   
 
