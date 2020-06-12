@@ -1,4 +1,4 @@
-package com.example.one_activity_base_app;
+package com.example.base_app;
 
 import android.os.Bundle;
 
