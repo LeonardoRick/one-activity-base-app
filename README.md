@@ -11,6 +11,6 @@ This project is a **template** to start your project with one simple and clean a
 
   
 #### Update 2
->On 'res -> values -> strings.xml', update your **app_name** string
+>On 'res -> values -> strings.xml' update your **app_name** string
 
 Enjoy!
