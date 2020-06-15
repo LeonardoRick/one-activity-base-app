@@ -9,6 +9,8 @@ This project is a **template** to start your project with one simple and clean a
 
 ### Updates on your project to use this as **template**
 
+First off all, remember to update this READ.me file, to match info of your project
+
 #### 1
 > Right click on main package name **com.example.base_app** -> refactor -> rename and change the package name for whatever you want
 
